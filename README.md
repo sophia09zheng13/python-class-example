@@ -1,6 +1,6 @@
 # Lab: doctests + continuous integration
 
-[![tests](https://github.com/sophia09zheng13/python-class-example/actions/workflows/test.yaml/badge.svg)](https://github.com/sophia09zheng13/python-class-example/actions/workflows/test.yaml)
+[![tests](https://github.com/sophia09zheng13/python-class-example/actions/workflows/test.yaml/badge.svg?branch=master)](https://github.com/sophia09zheng13/python-class-example/actions/workflows/test.yaml)
 
 **Instructions:**
 
