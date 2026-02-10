@@ -1,6 +1,6 @@
 # Lab: doctests + continuous integration
 
-<img src=![Tests](https://github.com/sophia09zheng13/python-class-example/actions/workflows/test.yml/badge.svg)/>
+[![tests](https://github.com/sophia09zheng13/python-class-example/actions/workflows/test.yaml/badge.svg)](https://github.com/sophia09zheng13/python-class-example/actions/workflows/test.yaml)
 
 **Instructions:**
 
