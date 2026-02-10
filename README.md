@@ -1,6 +1,6 @@
 # Lab: doctests + continuous integration
 
-<img src="https://github.com/mikeizbicki/lab-doctests/workflows/tests/badge.svg"](https://github.io/sophia09zheng13/python-class-example" />
+<img src="https://github.io/sophia09zheng13/python-class-example"/>
 
 **Instructions:**
 
